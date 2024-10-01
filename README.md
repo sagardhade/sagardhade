@@ -1,15 +1,20 @@
 ### <h1 align="center">Hi 👋, I'm Sagar Dhade</h1>
 ### <h3 align="center">A passionate developer from India</h3>
-I am a 2022 graduate with a Master of Computer Application degree. I am  currently pursuing Post-Graduate Diploma in Advanced Computing from CDAC. I am passionate about new technologies and love to explore them.
 
-- 🌱 I’m currently learning **Java SE, Jakarta EE, C++, OS, MS.NET, Web Development (HTML, CSS, Bootstrap, Vanilla JavaScript, React JS).**
+🌟 **Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast**
 
-- 📫 How to reach me **sagardhade2@gmail.com**
+I have successfully completed my **CDAC course** from Mumbai, where I honed my skills in a variety of modern technologies. My passion lies in building scalable, efficient, and impactful software solutions.
+
+### 🚀 Technologies I've Worked With:
+- **Languages:** C++, Java, C#, JavaScript
+- **Frameworks:** Spring Boot, ASP.NET, React.js, Angular
+- **Database:** MySQL, SQL Server, MongoDB
+
 
 
 ### Connect with me:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Sagar's LinkedIn" width="40" height="40" />](https://linkedin.com/in/sagardhade) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sagar's Instagram" width="40" height="40" />](https://instagram.com/sagar_dhade17)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Sagar's LinkedIn" width="40" height="40" />](https://linkedin.com/in/sagardhade) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sagar's Instagram" width="40" height="40" />](https://instagram.com/)
 
 ### Languages and Tools:
 
