@@ -14,7 +14,7 @@ I have successfully completed my **CDAC course** from Mumbai, where I honed my s
 
 ### Connect with me:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Sagar's LinkedIn" width="40" height="40" />](https://linkedin.com/in/sagardhade) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sagar's Instagram" width="40" height="40" />](https://instagram.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Sagar's LinkedIn" width="40" height="40" />](https://linkedin.com/in/sagardhade) 
 
 ### Languages and Tools:
 
