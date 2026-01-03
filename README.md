@@ -1,28 +1,47 @@
-### <h1 align="center">Hi 👋, I'm Sagar Dhade</h1>
-### <h3 align="center">A passionate developer from India</h3>
+# Hi there, I'm Sagar Dhade! 👋
 
-🌟 **Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast**
+### 🚀 Full-Stack Developer | Java Backend Specialist | CDAC Mumbai Alum
 
-I have successfully completed my **CDAC course** from Mumbai, where I honed my skills in a variety of modern technologies. My passion lies in building scalable, efficient, and impactful software solutions.
+I am a passionate **Java Backend Developer** with a focus on building scalable, secure, and high-performance web applications. With a background from **CDAC Mumbai** and an **MCA**, I specialize in the Spring Boot ecosystem and Microservices architecture.
 
-### 🚀 Technologies I've Worked With:
-- **Languages:** C++, Java, C#, JavaScript
-- **Frameworks:** Spring Boot, ASP.NET, React.js, Angular
-- **Database:** MySQL, SQL Server, MongoDB
+- 🔭 I’m currently working on enhancing my **Microservices** and **Cloud Deployment** skills.
+- ⚡ I've solved over **300+ problems on LeetCode**, focusing on optimized Data Structures and Algorithms.
+- 🛡️ Strong believer in **Test-Driven Development (TDD)** and clean code principles.
 
+---
 
+### 🛠️ Tech Stack & Tools
 
-### Connect with me:
+**Languages & Frameworks**
+- **Backend:** Java (17), Spring Boot 3, Spring Security, Hibernate (JPA), .NET
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Database:** MySQL, PostgreSQL, Redis (Caching)
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Sagar's LinkedIn" width="40" height="40" />](https://linkedin.com/in/sagardhade) 
+**DevOps & Tools**
+- **Cloud/DevOps:** AWS (EC2, S3), Docker, Git, Maven, CI/CD
+- **Testing:** JUnit 5, Mockito, Postman
+- **Management:** JIRA, Agile/Scrum, Swagger (OpenAPI)
 
-### Languages and Tools:
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40" />
+### 📁 Featured Projects
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+#### [EdTech ERP Solution](https://github.com/SagarDhade/ComputerSeekho)
+*Full-Stack ERP system for student lifecycle and fee management.*
+- **Tech:** Spring Boot 3, React.js, MySQL, Docker, JWT.
+- **Key Feature:** Implemented Role-Based Access Control (RBAC) and automated documentation with Swagger.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB" width="40" height="40" />
+#### [Payment Microservice](https://github.com/SagarDhade/paypal)
+*Modular payment gateway integration.*
+- **Tech:** Spring Boot, PayPal API, Redis, AWS EC2.
+- **Key Feature:** Reduced API latency by 30% using Redis caching and handled automated reconciliation via webhooks.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+---
 
+### 🔗 Connect with me:
+- **LinkedIn:** [linkedin.com/in/sagardhade](https://www.linkedin.com/in/sagardhade)
+- **Email:** [sagardhade2@gmail.com](mailto:sagardhade2@gmail.com)
+- **Portfolio:** [Coming Soon](#)
+
+---
+*"The best way to predict the future is to implement it."*
